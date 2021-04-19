@@ -1,0 +1,30 @@
+[
+  {
+    "title": "平利教育",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/d682a7fb-cb31-4a66-8d0e-ce271aca0e77.xml"
+  },
+  {
+    "title": "平利家园",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/7b11866a-3836-471b-bc7a-439e1e79196d.xml"
+  },
+  {
+    "title": "平利统战",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/5072f5e6-70dd-4c7a-aa6f-4ccd856b86fc.xml"
+  },
+  {
+    "title": "平利市监",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/beecdfc3-da8b-4751-8437-9098209a4e3b.xml"
+  },
+  {
+    "title": "平利观察",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/fd0ecf42-4a29-4689-bc26-35e4719ba99f.xml"
+  },
+  {
+    "title": "平利司法",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/39facf16-2edd-4c66-b0b2-3d21cde39566.xml"
+  },
+  {
+    "title": "平利旅游",
+    "rss": "https://cdn.werss.weapp.design/api/v1/feeds/b64f6e2f-c858-4179-9957-494849f43741.xml"
+  }
+]

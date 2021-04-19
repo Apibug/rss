@@ -1,0 +1,32 @@
+[
+  {
+    "tag": "教育",
+    "filename": "教育",
+    "keywords": "教育"
+  },
+  {
+    "tag": "家园",
+    "filename": "家园",
+    "keywords": "家园"
+  },
+  {
+    "tag": "市监",
+    "filename": "市监",
+    "keywords": "市监"
+  },
+  {
+    "tag": "观察",
+    "filename": "观察",
+    "keywords": "观察"
+  },
+  {
+    "tag": "司法",
+    "filename": "司法",
+    "keywords": "司法"
+  },
+  {
+    "tag": "其它",
+    "filename": "other",
+    "keywords": ""
+  }
+]
